@@ -1,8 +1,9 @@
+** THIS WORK HAS MOVED TO THIS REPO: https://github.com/tomverbeure/panologic-g2 **
+
+
 # Pano Logic Zero Client G2 
 
 ## Introduction
-
-https://pano-wiki.cyrozap.com/wiki:g2_zero_client
 
 This project contains the reverse engineering results of the Pano Logic Zero Client G2.
 
